@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(195, 224, 202);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(85, 112, 91);
+}
+a {
+    color: rgb(80, 131, 168);
+}
+.city-wrapper {
+    padding: 20px;
+    background-color: hwb(120 84% 7%);
+    margin-bottom: 15px;
+}
