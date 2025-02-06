@@ -1,13 +1,39 @@
 body {
-    background-color: rgb(195, 224, 202);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(85, 112, 91);
+    background-color: rgb(241, 238, 235);
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+    color: rgb(95, 69, 56);
 }
 a {
-    color: rgb(80, 131, 168);
+    color: rgb(65, 37, 23);
 }
 .city-wrapper {
     padding: 20px;
-    background-color: hwb(120 84% 7%);
+    background-color: hwb(30 86% 9%);
     margin-bottom: 15px;
+}
+
+.container {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.w-100 {
+    width: 100%;
+}
+
+p { 
+    font-size: 20px;
+    line-height: 34px;
+}
+
+h1 {
+    font-size: 76px;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 50px;
 }
